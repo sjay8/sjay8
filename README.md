@@ -3,7 +3,7 @@
 Welcome to my corner of Github!
 
 * Passionate about **AI Safety, LLMs, Recommendation Systems, and all things ML!**  
-* Previously built and deployed ML solutions for **125M+ users** in [HRTech](https://www.cornerstoneondemand.com/)  
+* Previously built and deployed LLM Hallucinations solution for **125M+ users** in [HRTech](https://www.cornerstoneondemand.com/)  
 *  Data Science MS at USC (Current) | Computational Neuroscience BS (Completed)
 
 ---
