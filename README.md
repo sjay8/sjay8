@@ -1,4 +1,4 @@
-# Hi, I'm Sana! 👋  
+# Hi, I'm Sana!  
 ### 🧠 Neuroscientist Turned Machine Learning Engineer  
 Welcome to my corner of Github!
 
@@ -21,7 +21,7 @@ Contributing to AI & ML projects:
 ## 🔨  Projects  
 Building real-world ML applications:  
 
-- **[NLP Data Extractor](https://github.com/sjay8/data_extractor/tree/main)** – Full-stack app converting NLU queries into SQL/MongoDB  
+- **[NLP Data Extractor](https://github.com/sjay8/data_extractor/tree/main)** – Full-stack app converting NLU queries into SQL/MongoDB (10+ users) 
 - **[Syllasync](https://github.com/sjay8/syllasync)** – Multi-syllabus to calendar organizer + LLM-powered Q&A (50+ users)  
 - **[Spanish Quiz LLM](https://github.com/sanaj24/Cohere-Spanish-Project-/blob/main/spanish_py.py)** – Built for a Spanish class (30+ users)  
 - **ReturnMe** – Automated purchase return reminders, saving users **$500+**  
