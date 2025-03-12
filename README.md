@@ -44,6 +44,6 @@ Welcome to my corner of Github!
 
 ### 📫 Let's Connect!  
 - **LinkedIn**: [linkedin.com/in/sana-jayaswal](https://www.linkedin.com/in/sana-jayaswal/)  
-- **GitHub**: [github.com/sjay8](https://github.com/sjay8)  
+
 
 
