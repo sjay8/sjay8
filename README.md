@@ -9,7 +9,7 @@ Welcome to my corner of Github!
 ---
 
 ## 💻  Open Source Contributions  
-Contributing to AI & ML projects:  
+
 
 - **Microsoft Autogen** (41k+ stars) High priority issue - [Approved PR](https://github.com/microsoft/autogen/pull/5896)
 - **Agentic Security** (1.1k+ stars) – [Merged PR](https://github.com/msoedov/agentic_security/pull/171)  
@@ -20,7 +20,7 @@ Contributing to AI & ML projects:
 ---
 
 ## 🔨  Projects  
-Building real-world ML applications:  
+
 
 - **[NLP Data Extractor](https://github.com/sjay8/data_extractor/tree/main)** – Full-stack app converting NLU queries into SQL/MongoDB (10+ users) 
 - **[Syllasync](https://github.com/sjay8/syllasync)** – Multi-syllabus to calendar organizer + LLM-powered Q&A (50+ users)  
@@ -33,7 +33,7 @@ Building real-world ML applications:
 ---
 
 ## 📚  Research & Recognition  
-Pushing the boundaries of AI & ML:  
+
 
 - **[CV for Ear Disease Detection](https://viterbischool.usc.edu/news/2024/11/leveraging-machine-learning-to-detect-middle-ear-diseases/)** – Featured in USC Viterbi News  
 - **[Bayesian Hierarchical Modeling](https://doi.org/10.1101/2024.11.02.621678)** – Preprint on bioRxiv  
@@ -46,4 +46,4 @@ Pushing the boundaries of AI & ML:
 - **LinkedIn**: [linkedin.com/in/sana-jayaswal](https://www.linkedin.com/in/sana-jayaswal/)  
 - **GitHub**: [github.com/sjay8](https://github.com/sjay8)  
 
-🚀 Always excited to collaborate on **ML, AI safety, and impactful projects**!  
+
