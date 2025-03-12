@@ -11,8 +11,9 @@ Welcome to my corner of Github!
 ## 💻  Open Source Contributions  
 Contributing to AI & ML projects:  
 
-- **Agentic Security** (1.1k+ stars) – [Approved PR](https://github.com/msoedov/agentic_security/pull/171)  
-- **Apache Tika Similarity** (100+ stars) – [Approved PR](https://github.com/sjay8/d3_vis/pull/1)  
+- **Microsoft Autogen** (41k+ stars) High priority issue - [Approved PR](https://github.com/microsoft/autogen/pull/5896)
+- **Agentic Security** (1.1k+ stars) – [Merged PR](https://github.com/msoedov/agentic_security/pull/171)  
+- **Apache Tika Similarity** (100+ stars) – [Merged PR](https://github.com/sjay8/d3_vis/pull/1)  
 - **Pinterest Querybook** (2.2k+ stars) – [PR](https://github.com/pinterest/querybook/pull/1545)  
 - **Tubi Explainable Recommendations** – [PR](https://github.com/Tubitv/ExplainableRecommendations/pull/1)  
 
